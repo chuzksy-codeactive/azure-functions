@@ -61,11 +61,14 @@ You will need to install the following locally:
 ## Monthly Cost Analysis
 Complete a month cost analysis of each Azure resource to give an estimate total cost using the table below:
 
-| Azure Resource | Service Tier | Monthly Cost |
+| Azure Resource | Service Tier | Monthly Cost (Pay as you go) |
 | ------------ | ------------ | ------------ |
-| *Azure Postgres Database* | Basic | 25.32 USD |
-| *Azure Service Bus*   | Basic | 0.05 USD |
-| *App Service Plan* | Free/Basic | 0/12.41 USD |
+| *Azure Postgres Database* (Flexible server) | General Purpose (D2ds v4) | $144.66  |
+| *Azure Service Bus*   | Premium | $666.00 |
+| *App Service Plan* | Premium P2V2 | $147.46 |
+| *Azure Function App* | Premium | $315.00 |
+| *Azure Storage Accounts* | Standard (General Purpose V2) | $102.50 |
+| *Azure App Service* | Production (P2V2) | $161.33 |
 
 ## Architecture Explanation
 This is a placeholder section where you can provide an explanation and reasoning for your architecture selection for both the Azure Web App and Azure Function.
