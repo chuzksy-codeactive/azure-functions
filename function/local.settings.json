@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=chuzksystorage;AccountKey=ZU1ZpfFyY8dAgYxizvxFMBBnoqh6aNpJBo4Haw2fnNJo90Xp2JkdC/fXDLkYoA7izMgwHeXbmmCg+ASt1mAquA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "chuzkysnotification_SERVICEBUS": "Endpoint=sb://chuzkys-notification.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=Aez7ht1986ad8WR2OAyIo2xysneqocBNXx7beJ0i2pc=",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=chuzksystorage;AccountKey=ZU1ZpfFyY8dAgYxizvxFMBBnoqh6aNpJBo4Haw2fnNJo90Xp2JkdC/fXDLkYoA7izMgwHeXbmmCg+ASt1mAquA==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "chuzksy-notification-functions2b7076",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "05fd75f5-67c4-41a3-84a9-99100a60ec78"
+  }
+}
